@@ -1,0 +1,2 @@
+Columns
+Demographics, Cancer Type, Cancer Staging, Treatment procedure I, Effective, Treatment procedure II, Effective, Treatment Procedure III, Effective, Symptoms: Fatigue levels, Enrolled in Fatigue Programs, causes of Fatigue
